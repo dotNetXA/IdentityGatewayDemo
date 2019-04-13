@@ -1,0 +1,62 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/IdentityServer/IdentityServer.csproj",
+    "projectName": "IdentityServer",
+    "projectPath": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/IdentityServer/IdentityServer.csproj",
+    "outputPath": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/IdentityServer/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "IdentityServer4": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        },
+        "IdentityServer4.EntityFramework": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        },
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

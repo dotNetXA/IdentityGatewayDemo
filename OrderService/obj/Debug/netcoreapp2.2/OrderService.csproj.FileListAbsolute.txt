@@ -1,0 +1,14 @@
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/OrderService/bin/Debug/netcoreapp2.2/OrderService.deps.json
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/OrderService/bin/Debug/netcoreapp2.2/OrderService.runtimeconfig.json
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/OrderService/bin/Debug/netcoreapp2.2/OrderService.runtimeconfig.dev.json
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/OrderService/bin/Debug/netcoreapp2.2/OrderService.dll
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/OrderService/bin/Debug/netcoreapp2.2/OrderService.pdb
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/OrderService/obj/Debug/netcoreapp2.2/OrderService.csprojAssemblyReference.cache
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/OrderService/obj/Debug/netcoreapp2.2/OrderService.csproj.CoreCompileInputs.cache
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/OrderService/obj/Debug/netcoreapp2.2/OrderService.RazorAssemblyInfo.cache
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/OrderService/obj/Debug/netcoreapp2.2/OrderService.RazorAssemblyInfo.cs
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/OrderService/obj/Debug/netcoreapp2.2/OrderService.AssemblyInfoInputs.cache
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/OrderService/obj/Debug/netcoreapp2.2/OrderService.AssemblyInfo.cs
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/OrderService/obj/Debug/netcoreapp2.2/OrderService.RazorTargetAssemblyInfo.cache
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/OrderService/obj/Debug/netcoreapp2.2/OrderService.dll
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/OrderService/obj/Debug/netcoreapp2.2/OrderService.pdb

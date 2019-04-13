@@ -1,0 +1,14 @@
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/ProductService/bin/Debug/netcoreapp2.2/ProductService.deps.json
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/ProductService/bin/Debug/netcoreapp2.2/ProductService.runtimeconfig.json
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/ProductService/bin/Debug/netcoreapp2.2/ProductService.runtimeconfig.dev.json
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/ProductService/bin/Debug/netcoreapp2.2/ProductService.dll
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/ProductService/bin/Debug/netcoreapp2.2/ProductService.pdb
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/ProductService/obj/Debug/netcoreapp2.2/ProductService.csproj.CoreCompileInputs.cache
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/ProductService/obj/Debug/netcoreapp2.2/ProductService.RazorAssemblyInfo.cache
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/ProductService/obj/Debug/netcoreapp2.2/ProductService.RazorAssemblyInfo.cs
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/ProductService/obj/Debug/netcoreapp2.2/ProductService.AssemblyInfoInputs.cache
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/ProductService/obj/Debug/netcoreapp2.2/ProductService.AssemblyInfo.cs
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/ProductService/obj/Debug/netcoreapp2.2/ProductService.RazorTargetAssemblyInfo.cache
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/ProductService/obj/Debug/netcoreapp2.2/ProductService.dll
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/ProductService/obj/Debug/netcoreapp2.2/ProductService.pdb
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/ProductService/obj/Debug/netcoreapp2.2/ProductService.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/GatewayService/bin/Debug/netcoreapp2.2/GatewayService.deps.json
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/GatewayService/bin/Debug/netcoreapp2.2/GatewayService.runtimeconfig.json
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/GatewayService/bin/Debug/netcoreapp2.2/GatewayService.runtimeconfig.dev.json
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/GatewayService/bin/Debug/netcoreapp2.2/GatewayService.dll
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/GatewayService/bin/Debug/netcoreapp2.2/GatewayService.pdb
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/GatewayService/obj/Debug/netcoreapp2.2/GatewayService.csproj.CoreCompileInputs.cache
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/GatewayService/obj/Debug/netcoreapp2.2/GatewayService.RazorAssemblyInfo.cache
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/GatewayService/obj/Debug/netcoreapp2.2/GatewayService.RazorAssemblyInfo.cs
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/GatewayService/obj/Debug/netcoreapp2.2/GatewayService.AssemblyInfoInputs.cache
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/GatewayService/obj/Debug/netcoreapp2.2/GatewayService.AssemblyInfo.cs
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/GatewayService/obj/Debug/netcoreapp2.2/GatewayService.RazorTargetAssemblyInfo.cache
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/GatewayService/obj/Debug/netcoreapp2.2/GatewayService.dll
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/GatewayService/obj/Debug/netcoreapp2.2/GatewayService.pdb
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/GatewayService/obj/Debug/netcoreapp2.2/GatewayService.csprojAssemblyReference.cache
+/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/GatewayService/bin/Debug/netcoreapp2.2/ocelot.json

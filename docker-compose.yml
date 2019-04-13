@@ -1,0 +1,80 @@
+version: '3.4'
+
+services:
+#  mssqlserver:
+#    image: microsoft/mssql-server-linux:2017-CU9-GDR2
+#    hostname: mssqlserver
+#    environment:
+#      "ACCEPT_EULA": "Y"
+#      "SA_PASSWORD": "Password123"
+#    ports:
+#      - "1450:1433"
+#    volumes:
+#      - sqldata:/var/opt/mssqlserver
+#    networks:
+#      - private
+
+  gateway1:
+    image: gatewayservice1
+    ports:
+      - "8081:8081"
+    build:
+      context: GatewayService
+      dockerfile: Dockerfile
+    networks:
+      - public
+      - private
+
+  gateway2:
+    image: gatewayservice2
+    ports:
+      - "8082:8081"
+    build:
+      context: GatewayService
+      dockerfile: Dockerfile
+    networks:
+      - public
+      - private
+
+  identity:
+    image: identityserver
+    ports:
+      - "5008:5008"
+    build:
+      context: IdentityServer
+      dockerfile: Dockerfile
+    networks:
+      - private
+
+  orderservice:
+    image: orderservice
+    ports:
+      - "5001:5001"
+    build:
+      context: OrderService
+      dockerfile: Dockerfile
+    networks:
+      - private
+
+  productservice:
+    image: productservice
+    ports:
+      - "5002:5002"
+    build:
+      context: ProductService
+      dockerfile: Dockerfile
+    networks:
+      - private
+
+  nginx:
+    build: ./nginx
+    container_name: nginx_server
+    ports:
+      - "8083:8083"
+
+volumes:
+  sqldata:
+
+networks:
+  public:
+  private:
