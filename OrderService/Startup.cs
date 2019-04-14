@@ -22,7 +22,7 @@ namespace OrderService
             services.AddAuthentication("Bearer")
                 .AddIdentityServerAuthentication(options =>
                 {
-                    options.Authority = "http://192.168.191.3:5008";
+                    options.Authority = "http://192.168.191.2:5008";
                     options.RequireHttpsMetadata = false;
                     options.ApiName = "orderapi";
                 });

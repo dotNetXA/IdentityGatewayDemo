@@ -30,5 +30,5 @@ if [ "$1" = "restart" ]; then
 fi
 
 if [ "$1" = "up" -o "$2" = "up" ]; then
-  docker-compose -f docker-compose.yml -f up -d
+  docker-compose -f docker-compose.yml up -d
 fi

@@ -27,7 +27,7 @@ namespace GatewayService
 
             Action<IdentityServerAuthenticationOptions> orderClient = option =>
             {
-                option.Authority = "http://192.168.191.3:5008";
+                option.Authority = "http://192.168.191.2:5008";
                 option.RequireHttpsMetadata = false;
                 option.SupportedTokens = SupportedTokens.Both;
                 option.ApiName = "orderapi";
@@ -36,7 +36,7 @@ namespace GatewayService
 
             Action<IdentityServerAuthenticationOptions> productClient = option =>
             {
-                option.Authority = "http://192.168.191.3:5008";
+                option.Authority = "http://192.168.191.2:5008";
                 option.RequireHttpsMetadata = false;
                 option.SupportedTokens = SupportedTokens.Both;
                 option.ApiName = "productapi";
