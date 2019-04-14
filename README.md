@@ -4,8 +4,9 @@ Ocelot + IdentityServer4 to build microservice gateway based on .NET Core platef
 Architecture picture:    
 ![Demo Architecture](https://github.com/dotNetXA/IdentityGatewayDemo/blob/master/architecture.jpg "Optional title")
 
+##1.Config datasource
 There are two ways to config this demo code in your local environment:    
-1.In Memory mode   
+###In Memory mode   
   In this model you just need to mock all data in memory and identityserver4 and ocelot will load configuration from it, for ocelot by default if you don't config the database in you ConfigurationService ,it will load gateway config from ocelot.json file:
     
     private static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
@@ -89,7 +90,7 @@ There are two ways to config this demo code in your local environment:
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         } 
     
-2.DataBase mode    
+###DataBase mode    
 for database mode, firstly you need to init db schema for ocelot and identityserver4,we build sqlservice instance based on docker container and this is defined in docker-compose.yml file in root directory.
     
     version: '3.4'
@@ -260,6 +261,7 @@ we added test data in code, when first tome application start up these data will
   before you start application you need to change db connectionstring in appsetting.json:
       
       "DefaultConnection": "Server=192.168.191.3,1450;Database=GatewayServer;User Id=sa;Password=Password123;MultipleActiveResultSets=True;"
+##2.Start script
 we write down some start script in go file in solution directory,when you first time to run this project you need to build docker image, so you can use ./go start command to start whole application, after that you can use command ./go up to start the instance which already built.
      
  

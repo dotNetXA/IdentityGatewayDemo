@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="badbb0a1-37a3-434c-9834-f277b02e29b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.IdentityGateway/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IdentityGateway/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GatewayInitScript.sql" beforeDir="false" afterPath="$PROJECT_DIR$/GatewayInitScript.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GatewayService/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GatewayService/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GatewayService/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/GatewayService/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GatewayService/ocelot.json" beforeDir="false" afterPath="$PROJECT_DIR$/GatewayService/ocelot.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdentityServer/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/IdentityServer/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderService/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OrderService/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductService/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductService/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go" beforeDir="false" afterPath="$PROJECT_DIR$/go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nginx/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/nginx.conf" afterDir="false" />
-    </list>
+    <list default="true" id="badbb0a1-37a3-434c-9834-f277b02e29b9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,28 +154,28 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IdentityServer/DataBase/InitMemoryData.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+            <state relative-caret-position="273">
+              <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
               <folding>
-                <marker date="1554302552000" expanded="false" signature="6:114" ph="..." />
-                <marker date="1554302552000" expanded="true" signature="140:2583" ph="{...}" />
-                <marker date="1554302552000" expanded="true" signature="174:2581" ph="{...}" />
-                <marker date="1554302552000" expanded="true" signature="255:494" ph="{...}" />
-                <marker date="1554302552000" expanded="true" signature="324:483" ph="{...}" />
-                <marker date="1554302552000" expanded="true" signature="618:843" ph="{...}" />
-                <marker date="1554302552000" expanded="true" signature="682:832" ph="{...}" />
-                <marker date="1554302552000" expanded="true" signature="956:2072" ph="{...}" />
-                <marker date="1554302552000" expanded="true" signature="1015:2061" ph="{...}" />
-                <marker date="1554302552000" expanded="true" signature="1060:1530" ph="{...}" />
-                <marker date="1554302552000" expanded="true" signature="1231:1315" ph="{...}" />
-                <marker date="1554302552000" expanded="true" signature="1361:1512" ph="{...}" />
-                <marker date="1554302552000" expanded="true" signature="1575:2047" ph="{...}" />
-                <marker date="1554302552000" expanded="true" signature="1744:1826" ph="{...}" />
-                <marker date="1554302552000" expanded="true" signature="1872:2029" ph="{...}" />
-                <marker date="1554302552000" expanded="true" signature="2121:2575" ph="{...}" />
-                <marker date="1554302552000" expanded="true" signature="2182:2564" ph="{...}" />
-                <marker date="1554302552000" expanded="true" signature="2229:2367" ph="{...}" />
-                <marker date="1554302552000" expanded="true" signature="2414:2550" ph="{...}" />
+                <marker date="1555208342396" expanded="false" signature="6:114" ph="..." />
+                <marker date="1555208342396" expanded="true" signature="140:2583" ph="{...}" />
+                <marker date="1555208342396" expanded="true" signature="174:2581" ph="{...}" />
+                <marker date="1555208342396" expanded="true" signature="255:494" ph="{...}" />
+                <marker date="1555208342396" expanded="true" signature="324:483" ph="{...}" />
+                <marker date="1555208342396" expanded="true" signature="618:843" ph="{...}" />
+                <marker date="1555208342396" expanded="true" signature="682:832" ph="{...}" />
+                <marker date="1555208342396" expanded="true" signature="956:2072" ph="{...}" />
+                <marker date="1555208342396" expanded="true" signature="1015:2061" ph="{...}" />
+                <marker date="1555208342396" expanded="true" signature="1060:1530" ph="{...}" />
+                <marker date="1555208342396" expanded="true" signature="1231:1315" ph="{...}" />
+                <marker date="1555208342396" expanded="true" signature="1361:1512" ph="{...}" />
+                <marker date="1555208342396" expanded="true" signature="1575:2047" ph="{...}" />
+                <marker date="1555208342396" expanded="true" signature="1744:1826" ph="{...}" />
+                <marker date="1555208342396" expanded="true" signature="1872:2029" ph="{...}" />
+                <marker date="1555208342396" expanded="true" signature="2121:2575" ph="{...}" />
+                <marker date="1555208342396" expanded="true" signature="2182:2564" ph="{...}" />
+                <marker date="1555208342396" expanded="true" signature="2229:2367" ph="{...}" />
+                <marker date="1555208342396" expanded="true" signature="2414:2550" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -230,6 +218,7 @@
         <option value="$PROJECT_DIR$/GatewayService/appsettings.json" />
         <option value="$PROJECT_DIR$/OrderService/Startup.cs" />
         <option value="$PROJECT_DIR$/nginx/nginx.conf" />
+        <option value="$PROJECT_DIR$/IdentityServer/DataBase/InitMemoryData.cs" />
       </list>
     </option>
   </component>
@@ -365,12 +354,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555204690617</updated>
-      <workItem from="1555204691938" duration="2299000" />
+      <workItem from="1555204691938" duration="2510000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2299000" />
+    <option name="totallyTimeSpent" value="2510000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -609,28 +598,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IdentityServer/DataBase/InitMemoryData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+        <state relative-caret-position="273">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
           <folding>
-            <marker date="1554302552000" expanded="false" signature="6:114" ph="..." />
-            <marker date="1554302552000" expanded="true" signature="140:2583" ph="{...}" />
-            <marker date="1554302552000" expanded="true" signature="174:2581" ph="{...}" />
-            <marker date="1554302552000" expanded="true" signature="255:494" ph="{...}" />
-            <marker date="1554302552000" expanded="true" signature="324:483" ph="{...}" />
-            <marker date="1554302552000" expanded="true" signature="618:843" ph="{...}" />
-            <marker date="1554302552000" expanded="true" signature="682:832" ph="{...}" />
-            <marker date="1554302552000" expanded="true" signature="956:2072" ph="{...}" />
-            <marker date="1554302552000" expanded="true" signature="1015:2061" ph="{...}" />
-            <marker date="1554302552000" expanded="true" signature="1060:1530" ph="{...}" />
-            <marker date="1554302552000" expanded="true" signature="1231:1315" ph="{...}" />
-            <marker date="1554302552000" expanded="true" signature="1361:1512" ph="{...}" />
-            <marker date="1554302552000" expanded="true" signature="1575:2047" ph="{...}" />
-            <marker date="1554302552000" expanded="true" signature="1744:1826" ph="{...}" />
-            <marker date="1554302552000" expanded="true" signature="1872:2029" ph="{...}" />
-            <marker date="1554302552000" expanded="true" signature="2121:2575" ph="{...}" />
-            <marker date="1554302552000" expanded="true" signature="2182:2564" ph="{...}" />
-            <marker date="1554302552000" expanded="true" signature="2229:2367" ph="{...}" />
-            <marker date="1554302552000" expanded="true" signature="2414:2550" ph="{...}" />
+            <marker date="1555208342396" expanded="false" signature="6:114" ph="..." />
+            <marker date="1555208342396" expanded="true" signature="140:2583" ph="{...}" />
+            <marker date="1555208342396" expanded="true" signature="174:2581" ph="{...}" />
+            <marker date="1555208342396" expanded="true" signature="255:494" ph="{...}" />
+            <marker date="1555208342396" expanded="true" signature="324:483" ph="{...}" />
+            <marker date="1555208342396" expanded="true" signature="618:843" ph="{...}" />
+            <marker date="1555208342396" expanded="true" signature="682:832" ph="{...}" />
+            <marker date="1555208342396" expanded="true" signature="956:2072" ph="{...}" />
+            <marker date="1555208342396" expanded="true" signature="1015:2061" ph="{...}" />
+            <marker date="1555208342396" expanded="true" signature="1060:1530" ph="{...}" />
+            <marker date="1555208342396" expanded="true" signature="1231:1315" ph="{...}" />
+            <marker date="1555208342396" expanded="true" signature="1361:1512" ph="{...}" />
+            <marker date="1555208342396" expanded="true" signature="1575:2047" ph="{...}" />
+            <marker date="1555208342396" expanded="true" signature="1744:1826" ph="{...}" />
+            <marker date="1555208342396" expanded="true" signature="1872:2029" ph="{...}" />
+            <marker date="1555208342396" expanded="true" signature="2121:2575" ph="{...}" />
+            <marker date="1555208342396" expanded="true" signature="2182:2564" ph="{...}" />
+            <marker date="1555208342396" expanded="true" signature="2229:2367" ph="{...}" />
+            <marker date="1555208342396" expanded="true" signature="2414:2550" ph="{...}" />
           </folding>
         </state>
       </provider>
