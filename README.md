@@ -264,4 +264,13 @@ we added test data in code, when first tome application start up these data will
 ## 2.Start script
 we write down some start script in go file in solution directory,when you first time to run this project you need to build docker image, so you can use ./go start command to start whole application, after that you can use command ./go up to start the instance which already built.
      
- 
+## 3.Test result
+if we use postman or other client to access the api by gateway, we will see that:
+![Unauthorize](https://github.com/dotNetXA/IdentityGatewayDemo/blob/master/unauthorized.jpg "Optional title")
+
+which means for now our api is protected by identityserver in gateway    
+we can only access it by valid token ,so let's request token first:
+![Unauthorize](https://github.com/dotNetXA/IdentityGatewayDemo/blob/master/generatetoken.jpg "Optional title")
+and we access the api again with the token, we can get what we expected
+![Unauthorize](https://github.com/dotNetXA/IdentityGatewayDemo/blob/master/authorized.jpg "Optional title")
+
