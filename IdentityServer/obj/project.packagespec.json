@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/IdentityServer/IdentityServer.csproj",
+    "projectUniqueName": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGatewayDemo/IdentityServer/IdentityServer.csproj",
     "projectName": "IdentityServer",
-    "projectPath": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/IdentityServer/IdentityServer.csproj",
-    "outputPath": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/IdentityServer/obj/",
+    "projectPath": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGatewayDemo/IdentityServer/IdentityServer.csproj",
+    "outputPath": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGatewayDemo/IdentityServer/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

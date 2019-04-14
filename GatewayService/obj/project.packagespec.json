@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/GatewayService/GatewayService.csproj",
+    "projectUniqueName": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGatewayDemo/GatewayService/GatewayService.csproj",
     "projectName": "GatewayService",
-    "projectPath": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/GatewayService/GatewayService.csproj",
-    "outputPath": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/GatewayService/obj/",
+    "projectPath": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGatewayDemo/GatewayService/GatewayService.csproj",
+    "outputPath": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGatewayDemo/GatewayService/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

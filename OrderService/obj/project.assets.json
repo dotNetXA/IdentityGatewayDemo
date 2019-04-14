@@ -12178,11 +12178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/OrderService/OrderService.csproj",
+      "projectUniqueName": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGatewayDemo/OrderService/OrderService.csproj",
       "projectName": "OrderService",
-      "projectPath": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/OrderService/OrderService.csproj",
+      "projectPath": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGatewayDemo/OrderService/OrderService.csproj",
       "packagesPath": "/Users/jkwang/.nuget/packages/",
-      "outputPath": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/OrderService/obj/",
+      "outputPath": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGatewayDemo/OrderService/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

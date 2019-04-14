@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="GatewayService" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConnectDbContext.cs" t="Include" />
+        <e p="Controllers" t="Include">
+          <e p="ValuesController.cs" t="Include" />
+        </e>
+        <e p="DataBase" t="Include">
+          <e p="DataBaseConfiguration.cs" t="Include" />
+          <e p="SqlServer.cs" t="Include" />
+        </e>
+        <e p="Dockerfile" t="Include" />
+        <e p="Extension" t="Include">
+          <e p="JsonUtility.cs" t="Include" />
+        </e>
+        <e p="GatewayService.csproj" t="IncludeRecursive" />
+        <e p="Middlewares" t="Include">
+          <e p="OcelotWithSqlServerMiddlewareExtensions.cs" t="Include" />
+          <e p="ServiceCollectionExtensions.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20190319154131_InitialCreate.cs" t="Include" />
+          <e p="20190319154131_InitialCreate.Designer.cs" t="Include" />
+          <e p="20190319154550_UpdateReRouteMemoField.cs" t="Include" />
+          <e p="20190319154550_UpdateReRouteMemoField.Designer.cs" t="Include" />
+          <e p="20190320154451_AddGlobalConfiguration.cs" t="Include" />
+          <e p="20190320154451_AddGlobalConfiguration.Designer.cs" t="Include" />
+          <e p="20190323033905_FullDbMigration.cs" t="Include" />
+          <e p="20190323033905_FullDbMigration.Designer.cs" t="Include" />
+          <e p="20190323034118_FullDbMigrationVersion1.cs" t="Include" />
+          <e p="20190323034118_FullDbMigrationVersion1.Designer.cs" t="Include" />
+          <e p="20190323042633_FullDbMigrationVersion2.cs" t="Include" />
+          <e p="20190323042633_FullDbMigrationVersion2.Designer.cs" t="Include" />
+          <e p="20190323042751_FullDbMigrationVersion3.cs" t="Include" />
+          <e p="20190323042751_FullDbMigrationVersion3.Designer.cs" t="Include" />
+          <e p="20190323043834_FullDbMigrationVersion4.cs" t="Include" />
+          <e p="20190323043834_FullDbMigrationVersion4.Designer.cs" t="Include" />
+          <e p="20190326130856_MigratOcelotConfig.cs" t="Include" />
+          <e p="20190326130856_MigratOcelotConfig.Designer.cs" t="Include" />
+          <e p="20190328130947_InitGatewayDbSchema.cs" t="Include" />
+          <e p="20190328130947_InitGatewayDbSchema.Designer.cs" t="Include" />
+          <e p="20190401150459_InitDataBase.cs" t="Include" />
+          <e p="20190401150459_InitDataBase.Designer.cs" t="Include" />
+          <e p="20190402101553_InitDataBase3.cs" t="Include" />
+          <e p="20190402101553_InitDataBase3.Designer.cs" t="Include" />
+          <e p="20190402111613_DBInit.cs" t="Include" />
+          <e p="20190402111613_DBInit.Designer.cs" t="Include" />
+          <e p="20190402111834_DBInittest.cs" t="Include" />
+          <e p="20190402111834_DBInittest.Designer.cs" t="Include" />
+          <e p="20190402112034_DBInittest1.cs" t="Include" />
+          <e p="20190402112034_DBInittest1.Designer.cs" t="Include" />
+          <e p="20190402112647_InitDbTest.cs" t="Include" />
+          <e p="20190402112647_InitDbTest.Designer.cs" t="Include" />
+          <e p="ConnectDbContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="GlobalConfigurationEntity.cs" t="Include" />
+          <e p="ReRouteEntity.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="GatewayService.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ocelot.json" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Repository" t="Include">
+          <e p="ConfigurationRepository.cs" t="Include" />
+          <e p="IConfigurationRepository.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="tempkey.rsa" t="Include" />
+      </e>
+      <e p="IdentityGateway.sln" t="IncludeFlat" />
+      <e p="IdentityServer" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Data" t="Include">
+          <e p="Migrations" t="Include">
+            <e p="IdentityServer" t="Include">
+              <e p="ConfigurationDb" t="Include">
+                <e p="20190326130159_InitialIdentityServerConfigurationDbMigration.cs" t="Include" />
+                <e p="20190326130159_InitialIdentityServerConfigurationDbMigration.Designer.cs" t="Include" />
+                <e p="20190328131738_InitialIdentityServerConfigurationDbMigration1.cs" t="Include" />
+                <e p="20190328131738_InitialIdentityServerConfigurationDbMigration1.Designer.cs" t="Include" />
+                <e p="20190401150846_InitialIdentityServerConfigurationDbMigration3.cs" t="Include" />
+                <e p="20190401150846_InitialIdentityServerConfigurationDbMigration3.Designer.cs" t="Include" />
+                <e p="20190402101902_InitialIdentityServerConfigurationDbMigration4.cs" t="Include" />
+                <e p="20190402101902_InitialIdentityServerConfigurationDbMigration4.Designer.cs" t="Include" />
+                <e p="20190402111741_InitialIdentityServerConfigurationDbMigration5.cs" t="Include" />
+                <e p="20190402111741_InitialIdentityServerConfigurationDbMigration5.Designer.cs" t="Include" />
+                <e p="20190402112839_InitialIdentityServerConfigurationDbMigration6.cs" t="Include" />
+                <e p="20190402112839_InitialIdentityServerConfigurationDbMigration6.Designer.cs" t="Include" />
+                <e p="ConfigurationDbContextModelSnapshot.cs" t="Include" />
+              </e>
+              <e p="PersistedGrantDb" t="Include">
+                <e p="20190326130039_InitialIdentityServerPersistedGrantDbMigration.cs" t="Include" />
+                <e p="20190326130039_InitialIdentityServerPersistedGrantDbMigration.Designer.cs" t="Include" />
+                <e p="20190328131514_InitialIdentityServerPersistedGrantDbMigration1.cs" t="Include" />
+                <e p="20190328131514_InitialIdentityServerPersistedGrantDbMigration1.Designer.cs" t="Include" />
+                <e p="20190401150732_InitialIdentityServerPersistedGrantDbMigration3.cs" t="Include" />
+                <e p="20190401150732_InitialIdentityServerPersistedGrantDbMigration3.Designer.cs" t="Include" />
+                <e p="20190402101757_InitialIdentityServerPersistedGrantDbMigration4.cs" t="Include" />
+                <e p="20190402101757_InitialIdentityServerPersistedGrantDbMigration4.Designer.cs" t="Include" />
+                <e p="20190402111721_InitialIdentityServerPersistedGrantDbMigration5.cs" t="Include" />
+                <e p="20190402111721_InitialIdentityServerPersistedGrantDbMigration5.Designer.cs" t="Include" />
+                <e p="20190402112809_InitialIdentityServerPersistedGrantDbMigration6.cs" t="Include" />
+                <e p="20190402112809_InitialIdentityServerPersistedGrantDbMigration6.Designer.cs" t="Include" />
+                <e p="PersistedGrantDbContextModelSnapshot.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="DataBase" t="Include">
+          <e p="InitMemoryData.cs" t="Include" />
+        </e>
+        <e p="Dockerfile" t="Include" />
+        <e p="IdentityServer.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="IdentityServer.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Pages" t="Include">
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="_ViewStart.cshtml" t="Include" />
+          <e p="Error.cshtml" t="Include" />
+          <e p="Error.cshtml.cs" t="Include" />
+          <e p="Index.cshtml" t="Include" />
+          <e p="Index.cshtml.cs" t="Include" />
+          <e p="Privacy.cshtml" t="Include" />
+          <e p="Privacy.cshtml.cs" t="Include" />
+          <e p="Shared" t="Include">
+            <e p="_CookieConsentPartial.cshtml" t="Include" />
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="ConfigService.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="tempkey.rsa" t="Include" />
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="site.css" t="Include" />
+          </e>
+          <e p="favicon.ico" t="Include" />
+          <e p="js" t="Include">
+            <e p="site.js" t="Include" />
+          </e>
+          <e p="lib" t="Include">
+            <e p="bootstrap" t="Include">
+              <e p="dist" t="Include">
+                <e p="css" t="Include">
+                  <e p="bootstrap-grid.css" t="Include" />
+                  <e p="bootstrap-grid.css.map" t="Include" />
+                  <e p="bootstrap-grid.min.css" t="Include" />
+                  <e p="bootstrap-grid.min.css.map" t="Include" />
+                  <e p="bootstrap-reboot.css" t="Include" />
+                  <e p="bootstrap-reboot.css.map" t="Include" />
+                  <e p="bootstrap-reboot.min.css" t="Include" />
+                  <e p="bootstrap-reboot.min.css.map" t="Include" />
+                  <e p="bootstrap.css" t="Include" />
+                  <e p="bootstrap.css.map" t="Include" />
+                  <e p="bootstrap.min.css" t="Include" />
+                  <e p="bootstrap.min.css.map" t="Include" />
+                </e>
+                <e p="js" t="Include">
+                  <e p="bootstrap.bundle.js" t="Include" />
+                  <e p="bootstrap.bundle.js.map" t="Include" />
+                  <e p="bootstrap.bundle.min.js" t="Include" />
+                  <e p="bootstrap.bundle.min.js.map" t="Include" />
+                  <e p="bootstrap.js" t="Include" />
+                  <e p="bootstrap.js.map" t="Include" />
+                  <e p="bootstrap.min.js" t="Include" />
+                  <e p="bootstrap.min.js.map" t="Include" />
+                </e>
+              </e>
+              <e p="LICENSE" t="Include" />
+            </e>
+            <e p="jquery" t="Include">
+              <e p="dist" t="Include">
+                <e p="jquery.js" t="Include" />
+                <e p="jquery.min.js" t="Include" />
+                <e p="jquery.min.map" t="Include" />
+              </e>
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+            <e p="jquery-validation" t="Include">
+              <e p="dist" t="Include">
+                <e p="additional-methods.js" t="Include" />
+                <e p="additional-methods.min.js" t="Include" />
+                <e p="jquery.validate.js" t="Include" />
+                <e p="jquery.validate.min.js" t="Include" />
+              </e>
+              <e p="LICENSE.md" t="Include" />
+            </e>
+            <e p="jquery-validation-unobtrusive" t="Include">
+              <e p="jquery.validate.unobtrusive.js" t="Include" />
+              <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="OrderService" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="OrderController.cs" t="Include" />
+        </e>
+        <e p="Dockerfile" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="OrderService.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="OrderService.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ProductService" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="ProductController.cs" t="Include" />
+        </e>
+        <e p="Dockerfile" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="ProductService.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ProductService.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_IdentityGateway.-1232930993.00" t="ExcludeRecursive" />
+  </component>
+</project>

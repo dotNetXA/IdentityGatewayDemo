@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/ProductService/ProductService.csproj",
+    "projectUniqueName": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGatewayDemo/ProductService/ProductService.csproj",
     "projectName": "ProductService",
-    "projectPath": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/ProductService/ProductService.csproj",
-    "outputPath": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGateway/ProductService/obj/",
+    "projectPath": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGatewayDemo/ProductService/ProductService.csproj",
+    "outputPath": "/Users/jkwang/Documents/NETCoreOpenSourceProject/IdentityGatewayDemo/ProductService/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
